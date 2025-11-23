@@ -23,7 +23,7 @@ git push origin SJ
 
 ### 2. PR 생성 & 리뷰 요청
 
-GitHub에서 userA → main PR 생성
+GitHub에서 userA(SJ) → main PR 생성
 PR 설명에 풀이 요약 + 고민 포인트 작성해 피드백 요청
 
 ### 3. 리뷰 & 피드백 반영
@@ -34,6 +34,6 @@ A가 피드백 반영, 코드 수정 후 커밋 → PR 업데이트
 ### 4. 최종 코드 반영
 
 리뷰 완료 후 PR merge → main
-solutions/feedback/solution1.py 최종 코드 생성 (A+B 합쳐진 버전)
+`solutions/feedback/solution1.py` 최종 코드 생성 (A+B 합쳐진 버전)
 
 풀이 설명 + 리뷰 내용 README.md에 기록 (선택)
