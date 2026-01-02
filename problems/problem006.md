@@ -1,4 +1,4 @@
-# 뮨자열 교환
+# 문자열 교환 (b -> a)
 
 (백준 1522)[https://www.acmicpc.net/problem/1522]
 
