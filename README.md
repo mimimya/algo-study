@@ -1,6 +1,4 @@
-# longdi-algo-study
-시차는 있어도 실력차는 없애자
-
+# algo-study
 
 ## A가 문제1, B가 문제2 선택
 또는 같은 문제를 동시에 풀이
